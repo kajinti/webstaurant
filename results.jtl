@@ -1,0 +1,85 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1717646791270,125,HTTP Request,301,Moved Permanently,Thread Group 1-1,text,true,,924,147,1,1,http://www.webstaurantstore.com/ï»¿url,125,0,61
+1717646793152,1004,HTTP Request,200,OK,Thread Group 1-2,text,true,,470873,153,2,2,https://www.webstaurantstore.com/outlet/178A23RHC/69455.html,942,0,641
+1717646795143,351,HTTP Request,200,OK,Thread Group 1-3,text,true,,347399,156,3,3,https://www.webstaurantstore.com/outlet/178GDC12FHCB/68503.html,310,0,45
+1717646797146,206,HTTP Request,301,Moved Permanently,Thread Group 1-4,,true,,950,153,4,4,https://www.webstaurantstore.com/outlet/829BMR23R/69433.html,206,0,53
+1717646799150,177,HTTP Request,301,Moved Permanently,Thread Group 1-5,,true,,950,156,5,5,https://www.webstaurantstore.com/outlet/178GDC24FHCB/69431.html,177,0,43
+1717646803156,194,HTTP Request,301,Moved Permanently,Thread Group 1-1,,true,,950,153,5,5,https://www.webstaurantstore.com/outlet/178SS3FHC/69493.html,194,0,38
+1717646817150,172,HTTP Request,301,Moved Permanently,Thread Group 1-2,,true,,950,155,5,5,https://www.webstaurantstore.com/outlet/178GDS47HCB/69491.html,172,0,35
+1717646831146,428,HTTP Request,200,OK,Thread Group 1-3,text,true,,510596,154,5,5,https://www.webstaurantstore.com/outlet/178A49RGHC/69465.html,384,0,42
+1717646845146,214,HTTP Request,301,Moved Permanently,Thread Group 1-4,,true,,950,154,5,5,https://www.webstaurantstore.com/outlet/178CPW68HC/69273.html,214,0,57
+1717646859150,338,HTTP Request,200,OK,Thread Group 1-5,text,true,,306190,153,5,5,https://www.webstaurantstore.com/outlet/178SSWD3R/69495.html,316,0,56
+1717646863153,373,HTTP Request,200,OK,Thread Group 1-1,text,true,,289637,155,5,5,https://www.webstaurantstore.com/outlet/189BVAC28HC/69471.html,317,0,39
+1717646877149,304,HTTP Request,200,OK,Thread Group 1-2,text,true,,323256,151,5,5,https://www.webstaurantstore.com/outlet/177F202/69463.html,281,0,42
+1717646891145,272,HTTP Request,200,OK,Thread Group 1-3,text,true,,265692,153,5,5,https://www.webstaurantstore.com/outlet/495HTGW22/69437.html,254,0,36
+1717646905145,331,HTTP Request,200,OK,Thread Group 1-4,text,true,,248045,156,5,5,https://www.webstaurantstore.com/outlet/178SSCFT60HC/69313.html,304,0,59
+1717646919149,330,HTTP Request,200,OK,Thread Group 1-5,text,true,,303139,156,5,5,https://www.webstaurantstore.com/outlet/178SSUC60FHC/69457.html,305,0,51
+1717646923152,270,HTTP Request,301,Moved Permanently,Thread Group 1-1,,true,,950,156,5,5,https://www.webstaurantstore.com/outlet/351GTUCPG48N/69011.html,270,0,38
+1717646937150,347,HTTP Request,200,OK,Thread Group 1-2,text,true,,262913,154,5,5,https://www.webstaurantstore.com/outlet/574E51530H/69447.html,327,0,45
+1717646951145,228,HTTP Request,301,Moved Permanently,Thread Group 1-3,,true,,950,153,5,5,https://www.webstaurantstore.com/outlet/178UDD378/69375.html,228,0,72
+1717646965144,171,HTTP Request,301,Moved Permanently,Thread Group 1-4,,true,,950,154,5,5,https://www.webstaurantstore.com/outlet/178SSPPT2B/69385.html,171,0,40
+1717646979150,230,HTTP Request,301,Moved Permanently,Thread Group 1-5,,true,,950,151,5,5,https://www.webstaurantstore.com/outlet/348SM50/69469.html,229,0,86
+1717646983154,386,HTTP Request,200,OK,Thread Group 1-1,text,true,,444176,155,5,5,https://www.webstaurantstore.com/outlet/178UBB72HCS/69485.html,345,0,51
+1717646997150,367,HTTP Request,200,OK,Thread Group 1-2,text,true,,293823,156,5,5,https://www.webstaurantstore.com/outlet/423EST4WO500/69147.html,317,0,77
+1717647011146,412,HTTP Request,200,OK,Thread Group 1-3,text,true,,319378,151,5,5,https://www.webstaurantstore.com/outlet/377SP30/69343.html,388,0,45
+1717647025143,332,HTTP Request,200,OK,Thread Group 1-4,text,true,,287685,156,5,5,https://www.webstaurantstore.com/outlet/185WTFD60A4H/68243.html,295,0,55
+1717647039150,517,HTTP Request,200,OK,Thread Group 1-5,text,true,,267986,151,5,5,https://www.webstaurantstore.com/outlet/541EC1C/69405.html,425,0,42
+1717647043154,327,HTTP Request,200,OK,Thread Group 1-1,text,true,,281340,154,5,5,https://www.webstaurantstore.com/outlet/351FEC100C/69369.html,299,0,35
+1717647057149,357,HTTP Request,200,OK,Thread Group 1-2,text,true,,279966,154,5,5,https://www.webstaurantstore.com/outlet/351FEC100E/69367.html,276,0,36
+1717647071146,452,HTTP Request,200,OK,Thread Group 1-3,text,true,,249950,152,5,5,https://www.webstaurantstore.com/outlet/600PB63B/69483.html,426,0,42
+1717647085144,436,HTTP Request,200,OK,Thread Group 1-4,text,true,,287560,154,5,5,https://www.webstaurantstore.com/outlet/178UBB1GHC/69075.html,368,0,59
+1717647099150,346,HTTP Request,200,OK,Thread Group 1-5,text,true,,308627,156,5,5,https://www.webstaurantstore.com/outlet/600B41014213/69037.html,269,0,39
+1717647103154,266,HTTP Request,200,OK,Thread Group 1-1,text,true,,265874,151,5,5,https://www.webstaurantstore.com/outlet/541EC1D/68845.html,246,0,40
+1717647117150,198,HTTP Request,301,Moved Permanently,Thread Group 1-2,,true,,950,152,5,5,https://www.webstaurantstore.com/outlet/177EG24N/69337.html,198,0,62
+1717647131145,304,HTTP Request,200,OK,Thread Group 1-3,text,true,,256721,154,5,5,https://www.webstaurantstore.com/outlet/478CSD60HC/69115.html,278,0,45
+1717647145145,355,HTTP Request,200,OK,Thread Group 1-4,text,true,,276275,156,5,5,https://www.webstaurantstore.com/outlet/234367000013/69189.html,299,0,41
+1717647159150,368,HTTP Request,200,OK,Thread Group 1-5,text,true,,367325,155,5,5,https://www.webstaurantstore.com/outlet/600S22424SB/69329.html,294,0,38
+1717647163155,337,HTTP Request,200,OK,Thread Group 1-1,text,true,,235357,154,5,5,https://www.webstaurantstore.com/outlet/424OMS2844/68815.html,272,0,48
+1717647177151,310,HTTP Request,200,OK,Thread Group 1-2,text,true,,215784,152,5,5,https://www.webstaurantstore.com/outlet/28AENV5B/68495.html,271,0,51
+1717647191145,643,HTTP Request,200,OK,Thread Group 1-3,text,true,,446529,156,5,5,https://www.webstaurantstore.com/outlet/351GTCPG36NL/69101.html,514,0,82
+1717647205145,318,HTTP Request,200,OK,Thread Group 1-4,text,true,,289585,154,5,5,https://www.webstaurantstore.com/outlet/351FFOP40N/68841.html,275,0,59
+1717647219151,276,HTTP Request,200,OK,Thread Group 1-5,text,true,,297645,154,5,5,https://www.webstaurantstore.com/outlet/720UF1415A/68719.html,253,0,50
+1717647223154,603,HTTP Request,200,OK,Thread Group 1-1,text,true,,336994,156,5,5,https://www.webstaurantstore.com/outlet/178GDC12FHCW/69377.html,489,0,77
+1717647237152,321,HTTP Request,200,OK,Thread Group 1-2,text,true,,258160,154,5,5,https://www.webstaurantstore.com/outlet/478CSD71HC/69497.html,289,0,57
+1717647251146,202,HTTP Request,301,Moved Permanently,Thread Group 1-3,,true,,950,153,5,5,https://www.webstaurantstore.com/outlet/123AST72R/69345.html,202,0,62
+1717647265144,259,HTTP Request,200,OK,Thread Group 1-4,text,true,,216191,156,5,5,https://www.webstaurantstore.com/outlet/257FSUC24362/69319.html,244,0,37
+1717647279150,312,HTTP Request,200,OK,Thread Group 1-5,text,true,,266551,153,5,5,https://www.webstaurantstore.com/outlet/351BASE36/68873.html,294,0,74
+1717647283154,172,HTTP Request,301,Moved Permanently,Thread Group 1-1,,true,,950,153,5,5,https://www.webstaurantstore.com/outlet/53340CSHC/69413.html,172,0,46
+1717647297149,309,HTTP Request,200,OK,Thread Group 1-2,text,true,,317246,156,5,5,https://www.webstaurantstore.com/outlet/351SRCPG36NL/68871.html,284,0,66
+1717647311149,353,HTTP Request,200,OK,Thread Group 1-3,text,true,,237435,158,5,5,https://www.webstaurantstore.com/outlet/600DIHSWIB1821/69063.html,336,0,48
+1717647325146,350,HTTP Request,200,OK,Thread Group 1-4,text,true,,270810,153,5,5,https://www.webstaurantstore.com/outlet/922VBBE3F/69187.html,315,0,74
+1717647339149,380,HTTP Request,200,OK,Thread Group 1-5,text,true,,305073,156,5,5,https://www.webstaurantstore.com/outlet/600EBTB2460R/69113.html,358,0,55
+1717647343154,384,HTTP Request,200,OK,Thread Group 1-1,text,true,,218289,156,5,5,https://www.webstaurantstore.com/outlet/2141826DTCCG/67243.html,338,0,66
+1717647357150,260,HTTP Request,200,OK,Thread Group 1-2,text,true,,215896,156,5,5,https://www.webstaurantstore.com/outlet/2141826DTCCG/68397.html,241,0,48
+1717647371146,344,HTTP Request,200,OK,Thread Group 1-3,text,true,,303904,153,5,5,https://www.webstaurantstore.com/outlet/600DC1872/69171.html,292,0,46
+1717647385144,442,HTTP Request,200,OK,Thread Group 1-4,text,true,,218246,153,5,5,https://www.webstaurantstore.com/outlet/177SAL17M/69199.html,390,0,40
+1717647399150,281,HTTP Request,200,OK,Thread Group 1-5,text,true,,202571,152,5,5,https://www.webstaurantstore.com/outlet/64927259/69339.html,261,0,54
+1717647403155,378,HTTP Request,200,OK,Thread Group 1-1,text,true,,254981,153,5,5,https://www.webstaurantstore.com/outlet/922VBBD2F/69073.html,355,0,53
+1717647417149,284,HTTP Request,200,OK,Thread Group 1-2,text,true,,236301,153,5,5,https://www.webstaurantstore.com/outlet/377GSG14D/68513.html,246,0,36
+1717647431146,377,HTTP Request,200,OK,Thread Group 1-3,text,true,,272514,156,5,5,https://www.webstaurantstore.com/outlet/234399000006/68545.html,349,0,66
+1717647445145,418,HTTP Request,200,OK,Thread Group 1-4,text,true,,261931,156,5,5,https://www.webstaurantstore.com/outlet/234531000101/68743.html,355,0,57
+1717647459150,210,HTTP Request,301,Moved Permanently,Thread Group 1-5,,true,,950,153,5,5,https://www.webstaurantstore.com/outlet/177BMR2CD/68261.html,210,0,55
+1717647463154,552,HTTP Request,200,OK,Thread Group 1-1,text,true,,240111,153,5,5,https://www.webstaurantstore.com/outlet/177BMR2CD/68263.html,532,0,72
+1717647477151,342,HTTP Request,200,OK,Thread Group 1-2,text,true,,284783,153,5,5,https://www.webstaurantstore.com/outlet/929WWD200/68619.html,297,0,63
+1717647491145,381,HTTP Request,200,OK,Thread Group 1-3,text,true,,288394,156,5,5,https://www.webstaurantstore.com/outlet/234133000004/68661.html,358,0,65
+1717647505145,282,HTTP Request,200,OK,Thread Group 1-4,text,true,,241670,156,5,5,https://www.webstaurantstore.com/outlet/234440000200/68515.html,262,0,58
+1717647519150,555,HTTP Request,200,OK,Thread Group 1-5,text,true,,382943,154,5,5,https://www.webstaurantstore.com/outlet/109DI31612/58061.html,452,0,55
+1717647523153,343,HTTP Request,200,OK,Thread Group 1-1,text,true,,210592,154,5,5,https://www.webstaurantstore.com/outlet/141APGI100/69365.html,296,0,49
+1717647537149,298,HTTP Request,200,OK,Thread Group 1-2,text,true,,273782,152,5,5,https://www.webstaurantstore.com/outlet/177EF40E/68407.html,280,0,54
+1717647551146,331,HTTP Request,200,OK,Thread Group 1-3,text,true,,360249,155,5,5,https://www.webstaurantstore.com/outlet/178SSUC60RA/68801.html,282,0,53
+1717647565144,352,HTTP Request,200,OK,Thread Group 1-4,text,true,,323555,154,5,5,https://www.webstaurantstore.com/outlet/178SSUD2RB/69441.html,293,0,44
+1717647579149,375,HTTP Request,200,OK,Thread Group 1-5,text,true,,382837,152,5,5,https://www.webstaurantstore.com/outlet/179B3961/69039.html,322,0,36
+1717647583153,334,HTTP Request,200,OK,Thread Group 1-1,text,true,,321914,155,5,5,https://www.webstaurantstore.com/outlet/185DD781SHC/68695.html,298,0,63
+1717647597150,272,HTTP Request,200,OK,Thread Group 1-2,text,true,,245174,153,5,5,https://www.webstaurantstore.com/outlet/185HR2HCS/69475.html,258,0,50
+1717647611145,282,HTTP Request,200,OK,Thread Group 1-3,text,true,,234816,155,5,5,https://www.webstaurantstore.com/outlet/194HBN18030/68593.html,263,0,74
+1717647625146,311,HTTP Request,200,OK,Thread Group 1-4,text,true,,231831,156,5,5,https://www.webstaurantstore.com/outlet/214B730DSCHI/56165.html,282,0,56
+1717647639151,273,HTTP Request,200,OK,Thread Group 1-5,text,true,,199824,154,5,5,https://www.webstaurantstore.com/outlet/214MDSCDP9/65955.html,258,0,65
+1717647643153,336,HTTP Request,200,OK,Thread Group 1-1,text,true,,264523,154,5,5,https://www.webstaurantstore.com/outlet/2307UCIWCF/68875.html,279,0,34
+1717647657149,351,HTTP Request,200,OK,Thread Group 1-2,text,true,,282184,155,5,5,https://www.webstaurantstore.com/outlet/238OSC2POBL/69347.html,311,0,39
+1717647671146,244,HTTP Request,200,OK,Thread Group 1-3,text,true,,208150,153,5,5,https://www.webstaurantstore.com/outlet/305N8273P/68269.html,222,0,37
+1717647685144,273,HTTP Request,200,OK,Thread Group 1-4,text,true,,205206,156,5,5,https://www.webstaurantstore.com/outlet/328HON716LCO/65959.html,255,0,44
+1717647691119,310,HTTP Request,200,OK,Thread Group 1-5,text,true,,259603,155,5,5,https://www.webstaurantstore.com/outlet/351GUCPG48M/69213.html,262,0,39
+1717647691118,321,HTTP Request,200,OK,Thread Group 1-3,text,true,,250854,156,4,4,https://www.webstaurantstore.com/outlet/372GT36GT36L/69235.html,235,0,31
+1717647691119,327,HTTP Request,200,OK,Thread Group 1-4,text,true,,238571,156,3,3,https://www.webstaurantstore.com/outlet/372GT48GT48N/69237.html,269,0,39
+1717647691116,351,HTTP Request,200,OK,Thread Group 1-2,text,true,,309765,156,2,2,https://www.webstaurantstore.com/outlet/372G60624CCL/68295.html,306,0,42
+1717647691113,454,HTTP Request,200,OK,Thread Group 1-1,text,true,,266442,153,1,1,https://www.webstaurantstore.com/outlet/360HFF2HC/69033.html,390,0,36
